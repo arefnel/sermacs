@@ -6,6 +6,18 @@ Handles the primary functions
 """
 
 
+def mean(num_list):
+    """
+    computes the mean of a list
+    :param num_list: num_list: list
+        list to collect mean of
+    :return: mean: float
+        mean of list of numbers
+    """
+
+    return sum(num_list)/len(num_list)
+
+
 def canvas(with_attribution=True):
     """
     Placeholder function to show example docstring (NumPy format)
