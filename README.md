@@ -6,6 +6,8 @@ sermacs
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/sermacs/branch/master)
 
 A short description of the project.
+This is readme
+
 
 ### Copyright
 
